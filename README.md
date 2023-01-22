@@ -4,7 +4,7 @@ This is the console /command interpreter for the ALX-Africa Airbnb clone project
 
 ---
 
-<center><h3>Repository Contents by Project Task</h3> </center>
+<center><h3>Project Tasks in the Repository</h3> </center>
 
 | Tasks | Files | Description |
 | ----- | ----- | ------ |
